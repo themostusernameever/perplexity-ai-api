@@ -16,3 +16,8 @@ to send a request, you need to call ```ask(*your input text*, *path to chrome*)`
 you will get a lsit of multiple objects, the first is going to be the main text that the ai has generated, and the others are the sources.
 
 Please expect for this scrpit not to work sometimes <3
+
+
+
+
+*also please dont sue me this is a small test project, i will take it down if this gets illegal :[*
