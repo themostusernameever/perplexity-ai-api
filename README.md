@@ -7,7 +7,7 @@ this is an api wrapper of perplexity.ai that was made by me, a very dumb fella.
 
 you can use the python file in your project by importing it:
 
-```import perplexitymain        ```
+```import perplexitymain```
 
 due to the fact that i don't know how to make good wrappers, this script uses selenium and Chrome to get the text and other stuff. to download it, go to https://chromedriver.chromium.org/downloads
 
