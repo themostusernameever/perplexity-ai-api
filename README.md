@@ -18,6 +18,11 @@ you will get a list of multiple objects, the first is going to be the main text 
 Please expect for this script not to work sometimes <3
 
 
+**TODO:**
+
+* Add a proper way to send requests to the webstite
+* (somehow) bypass the cloudflare  check
+* add a support for a follow up
 
 
 *also please dont sue me this is a small test project, i will take it down if this gets illegal :[*
