@@ -1,4 +1,10 @@
 # perplexity-thing
+
+update:
+Hi everyone :]
+i was really busy with work and had no time to update this code, but everything finally settled down and now i can work on this thing again 👍🏻
+
+
 this is an api wrapper of perplexity.ai that was made by me, a very dumb fella.
 (i am new to github and python in general, so please don't expect me to fix all of the bugs :>)
 
